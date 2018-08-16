@@ -1,0 +1,14 @@
+body {
+    font-size: 40px;
+}
+
+.counter {
+    margin-left: 40px;
+}
+
+button {
+    margin: 40px;
+    padding: 20px;
+    font-size: 20px;
+}
+
