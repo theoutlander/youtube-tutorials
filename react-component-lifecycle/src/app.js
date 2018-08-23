@@ -34,7 +34,7 @@ class App extends React.Component {
         <Counter
           ignoreProp={this.state.ignoreProp}
           seed={this.state.seed}
-          showErrorComponent={this.state.showErrorComponent}
+             showErrorComponent={this.state.showErrorComponent}
         /> :
         null}
     </div>

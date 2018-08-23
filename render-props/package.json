@@ -1,5 +1,5 @@
 {
-  "name": "react-component-lifecycle",
+  "name": "render-props",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -12,8 +12,5 @@
   "dependencies": {
     "react": "^16.4.2",
     "react-dom": "^16.4.2"
-  },
-  "devDependencies": {
-    "eslint-config-prettier": "^3.0.1"
   }
 }
